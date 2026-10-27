@@ -177,7 +177,7 @@ All tests verify:
 - Final balances may vary depending on leader identity and NEW-VIEW outcomes when transactions are accepted by a minority
 
 ## Authors
-Sai Vaibhav Kondapaka
+Bharath Sai Lingampalli
 Course: CSE 535 - Distributed Systems
 Project: Paxos Consensus Implementation
 
