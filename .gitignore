@@ -1,0 +1,6 @@
+.DS_Store
+*.db
+exe/
+
+# Local compiled executable
+/banking_test
